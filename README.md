@@ -10,5 +10,5 @@ The project aims to demonstrate the following skills:
 - Linking pages together to create a multi-page website.
 - Embedding images and working with lists.
 
-### Reflection
+## Reflection
 By completing this project, I will have reinforced my understanding of basic HTML structure, linking pages, and organizing content in a meaningful way. This will serve as a foundation for more complex projects in the future.

@@ -43,8 +43,7 @@ h1 {
 }
 
 .recipe-list-item {
-    width: 33.33333%;
-    display:table-column;
+    flex: 1;
     margin: 0 10px;
 }
 

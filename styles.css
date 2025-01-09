@@ -9,6 +9,7 @@ body {
 
 a {
     color: white;
+    text-decoration: none;
 }
 
 h1 {
@@ -40,15 +41,33 @@ h1 {
 
 .recipe-list {
     display: flex;
-}
-
-.recipe-list-item {
-    width: 33.33333%;
-    display:table-column;
+    justify-content: center;
+    gap: 10px;
     margin: 0 10px;
 }
 
-.recipe-list-item img {
-    max-width: 100%;
-    max-height: 100%;
+.recipe-list-item {
+    flex: 1;
+
+    img {
+        max-width: 100%;
+        max-height: 100%;
+    }
 }
+
+.nav-bar {
+    display: flex;
+    justify-content: left;
+    position: sticky;
+    top: 0;
+    background-color: #222;
+    ul {
+        list-style-type: none;
+    }
+
+    #home {
+        margin-right: auto;
+        font-size: larger;
+    }
+}
+

@@ -44,12 +44,12 @@ h1 {
 .recipe-list {
     display: flex;
     justify-content: center;
-    gap: 10px;
+    gap: 50px;
     margin: 30px 10px;
 }
 
 .recipe-list-item {
-    flex: 1;
+    max-width: 200px;
 
     img {
         width: 100%;

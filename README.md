@@ -1,14 +1,15 @@
-# html-recipes
+# Flavour-hub (IN-PROGRESS)
 
-# Project
-This project is part of The Odin Project's Foundations curriculum. The goal of this project is to build a simple website that displays a collection of recipes using only HTML.
+## URL
+Visit hosted project [here](flavour-hub.com)
 
-## Purpose
-The project aims to demonstrate the following skills:
-
-- Structuring a website with proper HTML tags.
-- Linking pages together to create a multi-page website.
-- Embedding images and working with lists.
-
-## Reflection
-By completing this project, I will have reinforced my understanding of basic HTML structure, linking pages, and organizing content in a meaningful way. This will serve as a foundation for more complex projects in the future.
+## Further Development
+Next steps of developments include:
+- Improving styling of website
+    - Improve view of homepage on mobile devices
+    - More to come...
+- Create database
+    - Implement accounts so users can upload recipes
+    - Store recipes with tags for searching and filtering
+    - More to come...
+- More to come...
